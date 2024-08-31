@@ -38,3 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # 查询对应地址的scroll积分
 ![image](img/WX20240831-230604@2x.png)
+
+# 网站地址
+[scroll dashboard](https://scroll-mark-dashboard-rwae.vercel.app/)
